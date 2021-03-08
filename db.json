@@ -2,19 +2,15 @@
         "title": "Backend Developer (NodeJs)",
         "slug": "backend-developer(nodejs)",
         "postedDate": "3rd march 2021",
-        deadline: "1st may 2021",
+        "deadline: "1st may 2021",
         "qualification": "Bachelors",
         "numberOfVacancies": "2",
         "experience": "more than 3 years",
         "level": "Mid",
         "location": "Chandol",
         "offeredSalary": "Negotiable",
-        "jobDescription": `Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit vitae
-          dolores voluptatum dolor? Voluptas doloribus illo ea dolor enim assumenda
-          temporibus quibusdam nisi blanditiis. Sapiente nobis nesciunt nihil distinctio voluptas.`,
-        responsibilities: `Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit vitae
-          dolores voluptatum dolor? Voluptas doloribus illo ea dolor enim assumenda
-          temporibus quibusdam nisi blanditiis. Sapiente nobis nesciunt nihil distinctio voluptas.`
+        "jobDescription": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit vitae dolores voluptatum dolor? Voluptas doloribus illo ea dolor enim assumenda temporibus quibusdam nisi blanditiis. Sapiente nobis nesciunt nihil distinctio voluptas.",
+        "responsibilities": `Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit vitae dolores voluptatum dolor? Voluptas doloribus illo ea dolor enim assumenda temporibus quibusdam nisi blanditiis. Sapiente nobis nesciunt nihil distinctio voluptas.`
       },
       {
         "title": "Frontend Developer (VueJs)",
@@ -27,12 +23,9 @@
         "level": "Mid",
         "location": "Chandol",
         "offeredSalary": "Negotiable",
-        "jobDescription": `Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit vitae
-          dolores voluptatum dolor? Voluptas doloribus illo ea dolor enim assumenda
-          temporibus quibusdam nisi blanditiis. Sapiente nobis nesciunt nihil distinctio voluptas.`,
-        responsibilities: `Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit vitae
-          dolores voluptatum dolor? Voluptas doloribus illo ea dolor enim assumenda
-          temporibus quibusdam nisi blanditiis. Sapiente nobis nesciunt nihil distinctio voluptas.`
+        "jobDescription": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit vitae dolores voluptatum dolor? Voluptas doloribus illo ea dolor enim assumenda temporibus quibusdam nisi blanditiis. Sapiente nobis nesciunt nihil distinctio voluptas.",
+        "responsibilities": `Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit vitae dolores voluptatum dolor? Voluptas doloribus illo ea dolor enim assumenda temporibus quibusdam nisi blanditiis. Sapiente nobis nesciunt nihil distinctio voluptas.`
+
       },
       {
         "title": "Quality Assurance (QA)",
@@ -45,11 +38,8 @@
         "level": "Mid",
         "location": "Chandol",
         "offeredSalary": "Negotiable",
-        "jobDescription": `Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit vitae
-          dolores voluptatum dolor? Voluptas doloribus illo ea dolor enim assumenda
-          temporibus quibusdam nisi blanditiis. Sapiente nobis nesciunt nihil distinctio voluptas.`,
-          responsibilities: `Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit vitae
-          dolores voluptatum dolor? Voluptas doloribus illo ea dolor enim assumenda
-          temporibus quibusdam nisi blanditiis. Sapiente nobis nesciunt nihil distinctio voluptas.`
+        "jobDescription": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit vitae dolores voluptatum dolor? Voluptas doloribus illo ea dolor enim assumenda temporibus quibusdam nisi blanditiis. Sapiente nobis nesciunt nihil distinctio voluptas.",
+        "responsibilities": `Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit vitae dolores voluptatum dolor? Voluptas doloribus illo ea dolor enim assumenda temporibus quibusdam nisi blanditiis. Sapiente nobis nesciunt nihil distinctio voluptas.`
+
       }
   ]
