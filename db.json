@@ -1,4 +1,4 @@
-jobDetails: [{
+'jobDetails': '[{
         'title': 'Backend Developer (NodeJs)',
         'slug': 'backend-developer(nodejs)',
         'postedDate': '3rd march 2021',
@@ -52,4 +52,4 @@ jobDetails: [{
           dolores voluptatum dolor? Voluptas doloribus illo ea dolor enim assumenda
           temporibus quibusdam nisi blanditiis. Sapiente nobis nesciunt nihil distinctio voluptas.`
       }
-  ]
+  ]'
