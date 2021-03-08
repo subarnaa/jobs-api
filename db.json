@@ -10,7 +10,7 @@
         "location": "Chandol",
         "offeredSalary": "Negotiable",
         "jobDescription": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit vitae dolores voluptatum dolor? Voluptas doloribus illo ea dolor enim assumenda temporibus quibusdam nisi blanditiis. Sapiente nobis nesciunt nihil distinctio voluptas.",
-        "responsibilities": `Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit vitae dolores voluptatum dolor? Voluptas doloribus illo ea dolor enim assumenda temporibus quibusdam nisi blanditiis. Sapiente nobis nesciunt nihil distinctio voluptas.`
+        "responsibilities": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit vitae dolores voluptatum dolor? Voluptas doloribus illo ea dolor enim assumenda temporibus quibusdam nisi blanditiis. Sapiente nobis nesciunt nihil distinctio voluptas."
       },
       {
         "title": "Frontend Developer (VueJs)",
@@ -24,7 +24,7 @@
         "location": "Chandol",
         "offeredSalary": "Negotiable",
         "jobDescription": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit vitae dolores voluptatum dolor? Voluptas doloribus illo ea dolor enim assumenda temporibus quibusdam nisi blanditiis. Sapiente nobis nesciunt nihil distinctio voluptas.",
-        "responsibilities": `Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit vitae dolores voluptatum dolor? Voluptas doloribus illo ea dolor enim assumenda temporibus quibusdam nisi blanditiis. Sapiente nobis nesciunt nihil distinctio voluptas.`
+        "responsibilities": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit vitae dolores voluptatum dolor? Voluptas doloribus illo ea dolor enim assumenda temporibus quibusdam nisi blanditiis. Sapiente nobis nesciunt nihil distinctio voluptas."
 
       },
       {
@@ -39,7 +39,7 @@
         "location": "Chandol",
         "offeredSalary": "Negotiable",
         "jobDescription": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit vitae dolores voluptatum dolor? Voluptas doloribus illo ea dolor enim assumenda temporibus quibusdam nisi blanditiis. Sapiente nobis nesciunt nihil distinctio voluptas.",
-        "responsibilities": `Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit vitae dolores voluptatum dolor? Voluptas doloribus illo ea dolor enim assumenda temporibus quibusdam nisi blanditiis. Sapiente nobis nesciunt nihil distinctio voluptas.`
+        "responsibilities": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit vitae dolores voluptatum dolor? Voluptas doloribus illo ea dolor enim assumenda temporibus quibusdam nisi blanditiis. Sapiente nobis nesciunt nihil distinctio voluptas."
 
       }
   ]
