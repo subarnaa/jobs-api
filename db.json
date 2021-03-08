@@ -1,0 +1,55 @@
+[{
+        "title": "Backend Developer (NodeJs)",
+        "slug": "backend-developer(nodejs)",
+        "postedDate": "3rd march 2021",
+        deadline: "1st may 2021",
+        "qualification": "Bachelors",
+        "numberOfVacancies": "2",
+        "experience": "more than 3 years",
+        "level": "Mid",
+        "location": "Chandol",
+        "offeredSalary": "Negotiable",
+        "jobDescription": `Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit vitae
+          dolores voluptatum dolor? Voluptas doloribus illo ea dolor enim assumenda
+          temporibus quibusdam nisi blanditiis. Sapiente nobis nesciunt nihil distinctio voluptas.`,
+        responsibilities: `Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit vitae
+          dolores voluptatum dolor? Voluptas doloribus illo ea dolor enim assumenda
+          temporibus quibusdam nisi blanditiis. Sapiente nobis nesciunt nihil distinctio voluptas.`
+      },
+      {
+        "title": "Frontend Developer (VueJs)",
+        "slug": "frontend-developer(vuejs)",
+        "postedDate": "5th june 2021",
+        "deadline": "1st july 2021",
+        "qualification": "+2",
+                "numberOfVacancies": "2",
+        "experience": "more than 3 years",
+        "level": "Mid",
+        "location": "Chandol",
+        "offeredSalary": "Negotiable",
+        "jobDescription": `Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit vitae
+          dolores voluptatum dolor? Voluptas doloribus illo ea dolor enim assumenda
+          temporibus quibusdam nisi blanditiis. Sapiente nobis nesciunt nihil distinctio voluptas.`,
+        responsibilities: `Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit vitae
+          dolores voluptatum dolor? Voluptas doloribus illo ea dolor enim assumenda
+          temporibus quibusdam nisi blanditiis. Sapiente nobis nesciunt nihil distinctio voluptas.`
+      },
+      {
+        "title": "Quality Assurance (QA)",
+        "slug": "quality-assurance(qa)",
+        "postedDate": "3rd march 2021",
+        "deadline": "1st may 2021",
+        "qualification": "Bachelors",
+        "numberOfVacancies": "2",
+        "experience": "more than 3 years",
+        "level": "Mid",
+        "location": "Chandol",
+        "offeredSalary": "Negotiable",
+        "jobDescription": `Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit vitae
+          dolores voluptatum dolor? Voluptas doloribus illo ea dolor enim assumenda
+          temporibus quibusdam nisi blanditiis. Sapiente nobis nesciunt nihil distinctio voluptas.`,
+          responsibilities: `Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit vitae
+          dolores voluptatum dolor? Voluptas doloribus illo ea dolor enim assumenda
+          temporibus quibusdam nisi blanditiis. Sapiente nobis nesciunt nihil distinctio voluptas.`
+      }
+  ]
